@@ -2,14 +2,6 @@
 
 This project focuses on analyzing medical insurance data to understand various factors affecting insurance charges. The analysis includes statistical methods and data visualization techniques to derive meaningful insights from the dataset.
 
-## Group Members
-
-1. Uday Om Srivastava (22ME3FP49)
-2. Srajan Kumar Gupta (22ME3FP18)
-3. Suraj Ghorai (22ME3FP47)
-4. Adeeba Alam Ansari (22IM3FP17)
-5. Desham Nihal Reddy (22IM3FP24)
-6. Hrushabh Prashant Bodhe (22ME3FP27)
 
 ## Project Structure
 
