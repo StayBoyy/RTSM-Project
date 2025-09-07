@@ -1,4 +1,4 @@
-# RTSM Group Project
+# Forecasting Insurance Premium Project
 
 This project focuses on analyzing medical insurance data to understand various factors affecting insurance charges. The analysis includes statistical methods and data visualization techniques to derive meaningful insights from the dataset.
 
